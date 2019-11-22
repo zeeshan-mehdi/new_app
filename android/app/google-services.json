@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "333326377847",
+    "firebase_url": "https://elitetalent-d84e7.firebaseio.com",
+    "project_id": "elitetalent-d84e7",
+    "storage_bucket": "elitetalent-d84e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333326377847:android:cc3bb4a0eb504019e5f772",
+        "android_client_info": {
+          "package_name": "com.elitetalent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333326377847-srh9hosk76lghuej1v47s0jl6d0re2at.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfrAoL1hsng_45Y0LOLjsFPkjfitTRIPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333326377847-srh9hosk76lghuej1v47s0jl6d0re2at.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
